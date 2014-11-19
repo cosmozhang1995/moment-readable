@@ -1,0 +1,19 @@
+{
+  "name": "moment-readable",
+  "description": "Readble time formats for moment. A moment plugin",
+  "version": "0.9.0",
+  "main": "lib/moment-readable.js",
+  "dependencies": {
+    "moment": ">= 2.6.0"
+  },
+  "ignore": [
+    "**/.*",
+    "Gruntfile.coffee",
+    "package.json"
+  ],
+  "homepage": "https://github.com/mycolorway/moment-readable",
+  "_release": "0.9.0",
+  "_source": "git://github.com/mycolorway/moment-readable.git",
+  "_target": "0.9.0",
+  "_originalSource": "moment-readable"
+}
